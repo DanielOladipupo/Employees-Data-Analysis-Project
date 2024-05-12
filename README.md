@@ -16,7 +16,7 @@ The exploration of the Employees Data Set offers a profound opportunity to exami
 This analysis aims to transform simple numbers and labels, by discovering  trends and patterns within the data. We can uncover invaluable information regarding employee demographics, distribution across departments and business units, and also discern potential correlations between various factors such as tenure and performance.
 
 Furthermore, this exploration isn't just about understanding the present state of affairs; it's about understanding actionable intelligence to drive future decision-making. By identifying areas of strength and improvement, organizations can strategically direct their resources to foster a more productive, and successful working environment.
-
+ 
 In essence, this report serves as a guide to organizational leaders towards a deeper understanding of their workforce composition and dynamics, with the ultimate goal of facilitating informed strategies for growth and improvement through data-driven insights. 
 
 ### Problem Statement
