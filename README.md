@@ -1,8 +1,8 @@
 # EMPLOYEES DATA ANALYSIS 
 
 ## Table of Contents
-- [Introduction](Introduction)
-- [Problem of Statement](problem_of_statement)
+- [Introduction](#Introduction)
+- [Problem of Statement](#problem_of_statement)
 - [Objectives](Objectives)
 - [The Data](The_Data)
 - [Data Cleaning and Preparation](Data_Cleaning_and_Preparation)
