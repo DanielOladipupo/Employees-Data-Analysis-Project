@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Problem of Statement](#problem-of-statement)
+- [Problem of Statement](#Problem-Statement)
 - [Objectives](#Objectives)
 - [The Data](#The-Data)
 - [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
