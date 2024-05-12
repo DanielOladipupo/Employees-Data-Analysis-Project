@@ -7,7 +7,7 @@
 - [The Data](#The-Data)
 - [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 - [Data Exploration](#Data-Exploration)
-- [Insights](Insights)
+- [Insights](#Insights)
 - [Recommendations](#Recommendations)
   
 ### Introduction
