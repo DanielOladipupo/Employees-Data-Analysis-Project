@@ -8,7 +8,7 @@
 - [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 - [Data Exploration](#Data-Exploration)
 - [Insights](#Insights)
-- [Recommendations](#recommendation)
+- [Recommendations](#Recommendation)
   
 ### Introduction
 The exploration of the Employees Data Set offers a profound opportunity to examine the complex details of an organization's workforce dynamics. With a comprehensive attributes ranging from basic demographic information like age, ethnicity, and location to professional specifics such as job title, department, and salary, this dataset provides variety of insights waiting to be unraveled.
